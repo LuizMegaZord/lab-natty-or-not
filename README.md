@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Título do Projeto: Extremely Aesthetic
+📒 Descrição
+Extremely Aesthetic é um projeto que explora o potencial das IAs generativas para criar conteúdos visualmente e textualmente cativantes, com um foco na estética minimalista e moderna. A proposta é produzir um conjunto de textos e imagens que sejam tão realistas e envolventes que se tornem indistinguíveis de obras criadas por humanos. O projeto visa desafiar os limites da criatividade digital e da percepção humana.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+GPT-4: Utilizado para a geração de textos criativos e descritivos, oferecendo conteúdo coeso e estilisticamente consistente.
+DALL·E: Empregado para a criação de imagens realistas e visualmente atraentes, alinhadas com a temática "Extremely Aesthetic".
+Stable Diffusion: Para ajustes e retoques finais nas imagens geradas, garantindo uma estética refinada e coerente.
+MidJourney: Para inspiração e referência de conceitos visuais.
+🧐 Processo de Criação
+Definição da Temática: Inicialmente, foi estabelecido o conceito central de "Extremely Aesthetic", focando em uma estética minimalista e sofisticada.
+Geração de Textos: Com o auxílio do GPT-4, foram criados textos que descrevem ambientes, objetos e cenas, todos dentro do tema escolhido. A linguagem foi cuidadosamente ajustada para ressoar com a estética visual pretendida.
+Criação de Imagens: Utilizando DALL·E, foram geradas imagens baseadas nas descrições textuais. As imagens passaram por refinamento em outras ferramentas como Stable Diffusion para aprimorar detalhes e alcançar a estética desejada.
+Curadoria: Seleção das melhores imagens e textos gerados, ajustando pequenos detalhes para garantir coesão e consistência no projeto.
+🚀 Resultados
+O projeto resultou em um conjunto harmonioso de textos e imagens que capturam perfeitamente a essência do tema "Extremely Aesthetic". Os textos transmitem uma atmosfera serena e moderna, enquanto as imagens complementam visualmente essa sensação, criando uma experiência imersiva para o espectador.
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão (Opcional)
+Criar um projeto que parece "natty" (natural) usando IA foi um desafio empolgante. A principal dificuldade foi equilibrar a perfeição das IAs com a imperfeição humana que torna as criações únicas. No entanto, o uso das IAs permitiu explorar novas fronteiras da estética digital, resultando em um projeto que é ao mesmo tempo artificial e autenticamente belo.
